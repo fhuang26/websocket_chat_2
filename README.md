@@ -1,5 +1,5 @@
 ## websocket_chat_2
-* This begins to work. I useed a debug field in chat.html to trace object flow on client to fix a few bugs.
+* This begins to work. I used a debug field in chat.html to trace object flow on client to fix a few bugs.
 
 * On Java side, I turned on Run > Edit Config > Maven > 'Show console when a message is printed to standard output stream' to trace object flow on server to fix a few bugs.
 
