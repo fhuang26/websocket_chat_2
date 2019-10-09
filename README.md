@@ -10,5 +10,5 @@
 * Both message container and onlineCount seem to work.
 
 * In chat.html, I couldn't get username from "http://localhost:8080/chat?username=joe" yet.
-
+* A screenshot "msg container onlineCount" is uploaded.
 * Please advice on items to improve further. Thank you!
